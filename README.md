@@ -1,4 +1,4 @@
-# Hi, I'm Jannatul Naim 👋
+# Hi, I'm Jannatul Naim
 
 ### Data Engineer | Python Backend Engineer | Distributed Systems | AI Automation
 
