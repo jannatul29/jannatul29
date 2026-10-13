@@ -110,7 +110,7 @@ An AI-enhanced monitoring solution for analyzing revenue metrics, detecting anom
 ### 5. Diabetic Retinopathy Classification
 **Deep Learning · Computer Vision · Research**
 
-Developed an image contrast enhancement architecture for diabetic retinopathy classification. The research was published at the 24th ICCIT 2021 conference.
+Developed an image contrast enhancement architecture for diabetic retinopathy classification. The research was published at the 24th ICCIT 2021 conference.[Paper Link](https://ieeexplore.ieee.org/abstract/document/9689874)
 
 ---
 
