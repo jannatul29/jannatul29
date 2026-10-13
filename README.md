@@ -140,8 +140,8 @@ East West University | 2021
 I'm open to opportunities in **Data Engineering, Python Backend Engineering, and AI Engineering**.
 
 - 📧 Email: [imujannatulnaim@gmail.com](mailto:imujannatulnaim@gmail.com)
-- 💼 LinkedIn: [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/jannatul-naim-972385186)
+- 🐙 GitHub: [Explore my repositories](https://github.com/jannatul29)
 
 ---
 
