@@ -2,7 +2,7 @@
 
 ### Data Engineer | Python Backend Engineer | Distributed Systems | AI Automation
 
-I'm a Software Engineer with **4+ years of professional experience** building scalable backend systems, large-scale data pipelines, cloud-native applications, and AI-powered automation solutions.
+I'm a Software Engineer with **nearly five years of professional experience** building scalable backend systems, large-scale data pipelines, cloud-native applications, and AI-powered automation solutions.
 
 My work focuses on processing billions of travel records, optimizing distributed data workflows, developing intelligent AI agents, and building reliable backend services using Python and AWS.
 
@@ -10,6 +10,7 @@ My work focuses on processing billions of travel records, optimizing distributed
 - ⚙️ **Core technologies:** Python, PySpark, Apache Iceberg, FastAPI, Django, and AWS
 - 🤖 **AI interests:** LLM applications, RAG, AI agents, and intelligent automation
 - ☁️ **Cloud & Infrastructure:** AWS, Docker, Terraform, and CI/CD
+- 🧠 **AI-Assisted Development:** Cursor, OpenAI Codex, Claude Code, AI-assisted coding, test generation, debugging, code review 
 - 🎓 **Education:** B.Sc. in Computer Science and Engineering, East West University
 - 🏆 **Achievement:** Magna Cum Laude Award, CGPA 3.82/4.00
 - 📫 **Email:** imujannatulnaim@gmail.com
