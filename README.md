@@ -2,7 +2,7 @@
 
 ###                        Data Engineer | Python Backend Engineer | Distributed Systems | AI Automation
 
-I'm a Software Engineer with **nearly five years of professional experience** building scalable backend systems, large-scale data pipelines, cloud-native applications, and AI-powered automation solutions.
+I'm a Software Engineer with **five years of professional experience** building scalable backend systems, large-scale data pipelines, cloud-native applications, and AI-powered automation solutions.
 
 My work focuses on processing billions of travel records, optimizing distributed data workflows, developing intelligent AI agents, and building reliable backend services using Python and AWS.
 
